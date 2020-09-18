@@ -1,0 +1,1 @@
+export { ExempleController } from "./exempleController";
